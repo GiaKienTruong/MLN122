@@ -44,7 +44,7 @@ const ENTITIES = [
 export default function ChuThe() {
   return (
     <SectionWrap id="chu-the">
-      <Reveal><SLabel>Mục 2.2.3 — Thảo</SLabel></Reveal>
+      <Reveal><SLabel>Mục 2.2.3</SLabel></Reveal>
       <Reveal delay={0.05}><STitle>Vai Trò Các Chủ Thể<br />Tham Gia Thị Trường</STitle></Reveal>
 
       <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(260px, 1fr))', gap: '1.2rem' }}>

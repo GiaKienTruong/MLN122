@@ -70,7 +70,7 @@ export default function ThiTruong() {
   const [showLoai, setShowLoai] = useState(false)
   return (
     <SectionWrap id="thi-truong">
-      <Reveal><SLabel>Mục 2.2.2 — Thảo</SLabel></Reveal>
+      <Reveal><SLabel>Mục 2.2.2</SLabel></Reveal>
       <Reveal delay={0.05}><STitle>Thị Trường & Các<br />Quy Luật Kinh Tế</STitle></Reveal>
 
       {/* Definition */}

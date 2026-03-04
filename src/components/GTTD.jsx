@@ -13,7 +13,7 @@ export default function GTTD() {
 
   return (
     <SectionWrap id="gttd">
-      <Reveal><SLabel>Mục 3.1.2 — Kiện</SLabel></Reveal>
+      <Reveal><SLabel>Mục 3.1.2</SLabel></Reveal>
       <Reveal delay={0.05}><STitle>Bản Chất Của<br />Giá Trị Thặng Dư</STitle></Reveal>
 
       {/* Tabs */}
